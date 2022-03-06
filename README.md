@@ -2,7 +2,7 @@
 
 Toto je další úkol na BI-3DT.
 
-Vytvoření repozitáře: https://classroom.github.com/a/GuWPgh_o
+Vytvoření repozitáře: https://classroom.github.com/a/gbK0NgmT
 
 V repozitáři jsou tři nevalidní STL soubory:
 
