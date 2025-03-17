@@ -4,7 +4,7 @@ Toto je další úkol na BI-3DT.
 
 Před odevzdáním úlohy přes GitHub je třeba [projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
 
-Vytvoření repozitáře: https://classroom.github.com/a/BNf7k3Y6
+Vytvoření repozitáře: https://classroom.github.com/a/Is_S0Qd5
 
 V repozitáři jsou tři nevalidní STL soubory:
 
